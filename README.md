@@ -156,7 +156,28 @@
     [![Cloud Shell](https://img.shields.io/badge/Cloud%20Shell-00758f?style=for-the-badge)](https://www.oracle.com/cloud/cloud-native/cloud-shell/)
     [![Security](https://img.shields.io/badge/Security-003B57?style=for-the-badge)](https://www.oracle.com/security/)
     [![Governance](https://img.shields.io/badge/Governance-fb4f14?style=for-the-badge)](https://www.oracle.com/cloud/governance/)
+ 
 
+
+- **🖥️ My Bash Scripting Skills:**:
+
+
+   [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+   [![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge)](https://en.wikipedia.org/wiki/Shell_script)
+   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+   [![Cron Jobs](https://img.shields.io/badge/Cron%20Jobs-0078D4?style=for-the-badge)](https://en.wikipedia.org/wiki/Cron)
+   [![Sed](https://img.shields.io/badge/Sed-FF5733?style=for-the-badge)](https://www.gnu.org/software/sed/)
+   [![Awk](https://img.shields.io/badge/Awk-1D4ED8?style=for-the-badge)](https://en.wikipedia.org/wiki/AWK)
+   [![Grep](https://img.shields.io/badge/Grep-FF5733?style=for-the-badge)](https://en.wikipedia.org/wiki/Grep)
+   [![Find Command](https://img.shields.io/badge/Find%20Command-4EAA25?style=for-the-badge)](https://www.gnu.org/software/findutils/)
+   [![Process Management](https://img.shields.io/badge/Process%20Management-FFAA00?style=for-the-badge)](https://en.wikipedia.org/wiki/Process_management_(computing))
+   [![Networking Commands](https://img.shields.io/badge/Networking%20Commands-1A73E8?style=for-the-badge)](https://www.geeksforgeeks.org/basic-networking-commands-in-linux/)
+   [![Permissions & Ownership](https://img.shields.io/badge/Permissions%20%26%20Ownership-003B57?style=for-the-badge)](https://www.tecmint.com/manage-file-permissions-and-ownership-in-linux/)
+   [![System Monitoring](https://img.shields.io/badge/System%20Monitoring-FF0000?style=for-the-badge)](https://linuxize.com/post/how-to-use-top-command-in-linux/)
+   [![Log Management](https://img.shields.io/badge/Log%20Management-0000FF?style=for-the-badge)](https://www.loggly.com/)
+    
+ 
+ <!-- 
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -164,7 +185,7 @@
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
- <!--   ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![Assembly](https://img.shields.io/badge/Assembly-%231F6FEB.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
     
