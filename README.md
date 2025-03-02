@@ -112,6 +112,51 @@
   
 - **My Google Cloud Platform (GCP) Skills**:
 
+    [![IAM](https://img.shields.io/badge/IAM-4285F4?style=for-the-badge)](https://cloud.google.com/iam)
+    [![Compute Engine](https://img.shields.io/badge/Compute%20Engine-1A73E8?style=for-the-badge)](https://cloud.google.com/compute)
+    [![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-34A853?style=for-the-badge)](https://cloud.google.com/functions)
+    [![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge)](https://cloud.google.com/run)
+    [![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-DB4437?style=for-the-badge)](https://cloud.google.com/storage)
+    [![BigQuery](https://img.shields.io/badge/BigQuery-1A73E8?style=for-the-badge)](https://cloud.google.com/bigquery)
+    [![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-0F9D58?style=for-the-badge)](https://cloud.google.com/sql)
+    [![Firestore](https://img.shields.io/badge/Firestore-F4B400?style=for-the-badge)](https://cloud.google.com/firestore)
+    [![Pub/Sub](https://img.shields.io/badge/Pub/Sub-FF6D00?style=for-the-badge)](https://cloud.google.com/pubsub)
+    [![Cloud Spanner](https://img.shields.io/badge/Cloud%20Spanner-34A853?style=for-the-badge)](https://cloud.google.com/spanner)
+    [![Cloud VPN](https://img.shields.io/badge/Cloud%20VPN-1A73E8?style=for-the-badge)](https://cloud.google.com/vpn)
+    [![Kubernetes Engine](https://img.shields.io/badge/Kubernetes%20Engine-4285F4?style=for-the-badge)](https://cloud.google.com/kubernetes-engine)
+    [![Cloud Logging](https://img.shields.io/badge/Cloud%20Logging-DB4437?style=for-the-badge)](https://cloud.google.com/logging)
+    [![Cloud Monitoring](https://img.shields.io/badge/Cloud%20Monitoring-0F9D58?style=for-the-badge)](https://cloud.google.com/monitoring)
+    [![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=for-the-badge)](https://cloud.google.com/build)
+    [![Anthos](https://img.shields.io/badge/Anthos-1A73E8?style=for-the-badge)](https://cloud.google.com/anthos)
+    [![Cloud CDN](https://img.shields.io/badge/Cloud%20CDN-FF6D00?style=for-the-badge)](https://cloud.google.com/cdn)
+    [![Cloud AI](https://img.shields.io/badge/Cloud%20AI-34A853?style=for-the-badge)](https://cloud.google.com/ai)
+    [![Vertex AI](https://img.shields.io/badge/Vertex%20AI-1A73E8?style=for-the-badge)](https://cloud.google.com/vertex-ai)
+    [![Secret Manager](https://img.shields.io/badge/Secret%20Manager-DB4437?style=for-the-badge)](https://cloud.google.com/secret-manager)
+    [![Cloud Armor](https://img.shields.io/badge/Cloud%20Armor-0F9D58?style=for-the-badge)](https://cloud.google.com/armor)
+    [![Operations Suite](https://img.shields.io/badge/Operations%20Suite-4285F4?style=for-the-badge)](https://cloud.google.com/products/operations)
+    [![Cloud Endpoints](https://img.shields.io/badge/Cloud%20Endpoints-FF6D00?style=for-the-badge)](https://cloud.google.com/endpoints)
+
+
+- **Oracle Cloud Infrastructure (OCI)**:
+   
+    [![IAM](https://img.shields.io/badge/IAM-ff6600?style=for-the-badge)](https://www.oracle.com/security/cloud-security/identity-access/)
+    [![Compute](https://img.shields.io/badge/Compute-00758f?style=for-the-badge)](https://www.oracle.com/cloud/compute/)
+    [![Block Storage](https://img.shields.io/badge/Block%20Storage-fb4f14?style=for-the-badge)](https://www.oracle.com/cloud/storage/block-storage/)
+    [![Object Storage](https://img.shields.io/badge/Object%20Storage-ff6600?style=for-the-badge)](https://www.oracle.com/cloud/storage/object-storage/)
+    [![Oracle Kubernetes](https://img.shields.io/badge/Oracle%20Kubernetes-003B57?style=for-the-badge)](https://www.oracle.com/cloud/cloud-native/container-engine-kubernetes/)
+    [![Functions](https://img.shields.io/badge/Functions-ff6600?style=for-the-badge)](https://www.oracle.com/cloud/cloud-native/functions/)
+    [![Load Balancer](https://img.shields.io/badge/Load%20Balancer-00758f?style=for-the-badge)](https://www.oracle.com/cloud/networking/load-balancing/)
+    [![Networking](https://img.shields.io/badge/Networking-003B57?style=for-the-badge)](https://www.oracle.com/cloud/networking/)
+    [![Vault](https://img.shields.io/badge/Vault-fb4f14?style=for-the-badge)](https://www.oracle.com/security/cloud-security/key-management/)
+    [![Oracle Database](https://img.shields.io/badge/Oracle%20Database-ff6600?style=for-the-badge)](https://www.oracle.com/database/)
+    [![Autonomous Database](https://img.shields.io/badge/Autonomous%20Database-00758f?style=for-the-badge)](https://www.oracle.com/autonomous-database/)
+    [![Cloud Guard](https://img.shields.io/badge/Cloud%20Guard-003B57?style=for-the-badge)](https://www.oracle.com/security/cloud-security/cloud-guard/)
+    [![Monitoring](https://img.shields.io/badge/Monitoring-fb4f14?style=for-the-badge)](https://www.oracle.com/cloud/monitoring/)
+    [![Logging](https://img.shields.io/badge/Logging-ff6600?style=for-the-badge)](https://www.oracle.com/cloud/monitoring/logging/)
+    [![Cloud Shell](https://img.shields.io/badge/Cloud%20Shell-00758f?style=for-the-badge)](https://www.oracle.com/cloud/cloud-native/cloud-shell/)
+    [![Security](https://img.shields.io/badge/Security-003B57?style=for-the-badge)](https://www.oracle.com/security/)
+    [![Governance](https://img.shields.io/badge/Governance-fb4f14?style=for-the-badge)](https://www.oracle.com/cloud/governance/)
+
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
