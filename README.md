@@ -9,6 +9,8 @@
 <br>
 <p align="center">
 <br>
+
+<!--
    
 - **My Generative AI Skills**:
 
@@ -39,6 +41,8 @@
   ![SmolAgents](https://img.shields.io/badge/SmolAgents-FF4081?style=for-the-badge&logo=agent&logoColor=white)
   ![CrewAI](https://img.shields.io/badge/CrewAI-00ACC1?style=for-the-badge&logo=team&logoColor=white)
 
+
+-->
 - **My DevOps Skills**:
 
    
@@ -60,8 +64,7 @@
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-
-
+<!--
 - **My MLOps Skills**:
 
 
@@ -70,9 +73,7 @@
   ![DagsHub](https://img.shields.io/badge/DagsHub-%23010A1D.svg?style=for-the-badge&logo=dagshub&logoColor=white)
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
   ![Kubeflow](https://img.shields.io/badge/Kubeflow-1E88E5?style=for-the-badge&logo=kubeflow&logoColor=white)
-  
-  
-
+-->
 
 
 
@@ -117,8 +118,8 @@
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+ <!--   ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
     ![Assembly](https://img.shields.io/badge/Assembly-%231F6FEB.svg?style=for-the-badge&logo=assembly&logoColor=white)
 
     
@@ -165,27 +166,27 @@
    [![VMware](https://img.shields.io/badge/VMware-%23007CBA.svg?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
    [![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 
-
+-->
   <br>
   <br>
   <br>
-#
-#
 
   ### Lets Connect
 
 
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzarehman4/)
-  [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kubePuls)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairgl/)
+  [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/umairgl)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=umair123@gmail.com)
+
+<!--  [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kubePuls)
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sheikh_hr_4)
   [![gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/masterwithhamza)
   [![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@YourUsername)
-  [![medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://masterwithhamza.medium.com/)
-  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masterwithhamza/)
-  [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/masterwithhamza/)
+  [![medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://masterwithhamza.medium.com/) 
   [![reddit](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/MasterWithHamza/)
   [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Hamza-Rehman-241)
   [![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/hamxaflutterapps/workspace/repositories/)
+  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/masterwithhamza/)
+-->
 
 
 
