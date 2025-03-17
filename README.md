@@ -233,6 +233,18 @@
    [![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 
 -->
+
+  <br>
+
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Umair-Gillani&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage& -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Umair-Gillani&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-Gillani&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Umair-Gillani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
   <br>
   <br>
   <br>
